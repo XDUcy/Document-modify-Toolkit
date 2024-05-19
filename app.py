@@ -1,6 +1,3 @@
-import sys
-sys.path.append('/home/aistudio/external-libraries')
-
 import gradio as gr
 from PIL import Image
 import Transform
